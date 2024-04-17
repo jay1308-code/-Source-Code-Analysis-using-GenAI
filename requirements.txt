@@ -1,5 +1,6 @@
-google-generativeai 
-chromadb==0.4.4
+openai==0.28
+tiktoken 
+faiss-cpu
 langchain==0.0.249
 flask
 GitPython
